@@ -5,6 +5,7 @@
 	license: http://www.opensource.org/licenses/mit-license.php
 */
 
+var jQuery = module.exports = require('jquery');
 (function ($) {
 	var
 	defaults = {
@@ -188,4 +189,4 @@
 			adjust();
 		});
 	};
-}(window.jQuery || window.Zepto));
+})(jQuery);

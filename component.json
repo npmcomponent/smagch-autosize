@@ -1,8 +1,19 @@
 {
 	"name": "jquery-autosize",
+	"description": "Small jQuery plugin to allow dynamic resizing of textarea height",
+	"keywords": [
+		"jquery",
+		"autosize",
+		"textarea"
+	],
+	"repo": "smagch/autosize",
 	"version": "1.16.9",
-	"main": "./jquery.autosize.js",
+	"main": "jquery.autosize.js",
 	"dependencies": {
-		"jquery": ">=1.7"
-	}
+		"component/jquery": "*"
+	},
+	"scripts": [
+		"jquery.autosize.js"
+	],
+	"license": "MIT"
 }
