@@ -5,7 +5,7 @@
 	license: http://www.opensource.org/licenses/mit-license.php
 */
 
-var jQuery = module.exports = require('jquery');
+var jQuery = module.exports = require('components-jquery');
 (function ($) {
 	var
 	defaults = {

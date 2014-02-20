@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [smagch/autosize](http://github.com/smagch/autosize). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/smagch-autosize`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ## Autosize
 
 Small jQuery plugin to allow dynamic resizing of textarea height, so that it grows as based on visitor input.  To use, just call the `.autosize()` method on any textarea element. Example `$('textarea').autosize();`.  See the [project page](http://jacklmoore.com/autosize/) for documentation, caveats, and a demonstration.  Released under the [MIT license](http://www.opensource.org/licenses/mit-license.php).

@@ -1,0 +1,15 @@
+{
+  "name": "smagch-autosize",
+  "description": "Small jQuery plugin to allow dynamic resizing of textarea height",
+  "version": "1.16.9",
+  "keywords": [
+    "jquery",
+    "autosize",
+    "textarea"
+  ],
+  "main": "jquery.autosize.js",
+  "dependencies": {
+    "components-jquery": "git://github.com/npmcomponent/components-jquery.git"
+  },
+  "license": "MIT"
+}
